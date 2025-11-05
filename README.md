@@ -6,15 +6,17 @@ Selamat datang di repository **Dataset Putusan Pengadilan Narkotika**. Dataset i
 
 ## 📂 Struktur Repository
 
+```text
 Dataset-Narkotika_278_298/
 │
 ├── Dataset/
-│ └── Narkotika.zip # Folder berisi 50 dokumen putusan pengadilan (*.pdf)
+│   └── Narkotika.zip       # Folder berisi 50 dokumen putusan pengadilan (*.pdf)
 │
 ├── Overview/
-│ └── Overview.xlsx # Ringkasan informasi 50 putusan
+│   └── Overview.xlsx       # Ringkasan informasi 50 putusan
 │
-└── README.md # Dokumentasi dataset
+└── README.md               # Dokumentasi dataset
+```
 
 ---
 
